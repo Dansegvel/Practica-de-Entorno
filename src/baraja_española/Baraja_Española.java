@@ -5,7 +5,7 @@ import java.util.Scanner;
 Numero: 1 -> A (As) 10 -> S (Sota) 11 -> C (Caballo) 12 -> R (Rey)
 Palo: 1 -> Espadas y color azul claro, 2-> Oros y color amarillo, 3 -> Copas y color rojo, 4 -> Bastos y color verde
  * 
- * @author danie
+ * @author Dansegvel
  * @version 1.0
  * @since 31/3/2022
  */
