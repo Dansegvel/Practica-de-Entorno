@@ -10,7 +10,7 @@ Palo: 1 -> Espadas y color azul claro, 2-> Oros y color amarillo, 3 -> Copas y c
  * @since 31/3/2022
  */
 public class Baraja_Española {
-    //Metodo
+    //Metodos
     /**
      * 
      * @param args 
